@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@700&display=swap');
+
+
+
+a{
+    text-decoration: none;
+}
+
+.main{
+    background: url(../assets/Inmortal.jpg) center;
+    background-size: cover;
+}
+
+.main-h1{
+    color: whitesmoke;
+    margin: 0;
+    font-family: 'Sono', sans-serif;
+    text-align: center;
+}
+
+.main-p{
+    padding: 25px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    text-align: justify;
+}
+
+.main_mimicion{
+    background: url(../assets/Mimicion.jpg) center;
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+  }
+  
+.aaa{
+    font-size: 1.5em;
+}
